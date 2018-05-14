@@ -6,7 +6,7 @@
 	 <Create>
 	 <Document targetId="doc1">
 	   <Placemark id="pm789">
-          <name>Success is guaranteed</name>
+          <name>Success is guaranteed!</name>
           <Point>
             <coordinates>-95.45,40.45,100</coordinates>
           </Point>
