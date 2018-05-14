@@ -3,7 +3,7 @@
 <NetworkLink>
   <name>Loads Point.kml</name>
   <Link>
-    <href>Point.kml</href>
+    <href>https://github.com/wisdomware/Kml/blob/master/Point.kml</href>
   </Link>
 </NetworkLink>
 </kml>
