@@ -5,10 +5,10 @@
       <targetHref>Point.kml</targetHref>
 	 <Create>
 	 <Document targetId="doc1">
-	   <Placemark id="pm789">
-          <name>Success is guaranteed!</name>
+      <Placemark>
+          <name>Henry said Success is guaranteed!</name>
           <Point>
-            <coordinates>-95.45,40.45,100</coordinates>
+            <coordinates>-95.455,40.455,500</coordinates>
           </Point>
         </Placemark>
 		</Document>
