@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="doc1">
-   <name>Dynamic Adding Point</name>
+   <name>Initial Points: pm123 and pm456</name>
   <Placemark id="pm123">
     <name>point123</name>
     <Point>
