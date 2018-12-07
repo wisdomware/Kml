@@ -3,7 +3,7 @@
 <NetworkLink>
   <name>Initially Loads Points from kml file</name>
   <Link>
-    <href>https://rawgit.com/wisdomware/Kml/master/Point.kml</href>
+    <href>https://cdn.jsdelivr.net/gh/wisdomware/Kml/Point.kml</href>
   </Link>
 </NetworkLink>
 </kml>
