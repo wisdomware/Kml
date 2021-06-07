@@ -8,12 +8,12 @@
       		<Placemark>
       			<name>pm789, Henry said Success is guaranteed!</name>
           	<Point>
-            		<coordinates>-95.43,40.43,500</coordinates>
+            		<coordinates>								
+									-95.43,40.43,500
+									-95.868,40.40,500
+							</coordinates>
+
           	</Point>
-			
-		 				<Point>
-    					<coordinates>-95.868,40.40,500</coordinates>
-  				</Point>
       /Document>
 		</Create>
 	</Update>
