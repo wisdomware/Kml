@@ -4,30 +4,18 @@
 	<Update>
 		<targetHref>Point.kml</targetHref>
 			<Create>
-	  		<Document targetId="doc1">
+	  	<Document targetId="doc1">
       		<Placemark>
       			<name>pm789, Henry said Success is guaranteed!</name>
           	<Point>
-            	<coordinates>-95.43,40.43,500</coordinates>
+            		<coordinates>-95.43,40.43,500</coordinates>
           	</Point>
-        	</Placemark>
-					
-					<Placemark>
-  <name>Google Earth - New Placemark</name>
-  <description>Some Descriptive text.</description>
-  <LookAt>
-    <longitude>-90.86879847669974</longitude>
-    <latitude>48.25330383601299</latitude>
-    <range>440.8</range>
-    <tilt>8.3</tilt>
-    <heading>2.7</heading>
-  </LookAt>
-  <Point>
-    <coordinates>-90.86948943473118,48.25450093195546,0</coordinates>
-  </Point>
-</Placemark>
+			
+		 				<Point>
+    					<coordinates>-95.868,40.40,500</coordinates>
+  				</Point>
       /Document>
-	 </Create>
+		</Create>
 	</Update>
 </NetworkLinkControl>
 </kml>
