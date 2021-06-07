@@ -10,6 +10,13 @@
           <Point>
             <coordinates>-95.43,40.43,500</coordinates>
           </Point>
+				
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-95.46474642048443,40.39391918443841,0 -95.42438685267815,40.38321880948086,0 -95.35948518900206,40.40059004502901,0 
+						</coordinates>
+					</LineString>
         </Placemark>
 		</Document>
 	 </Create>
