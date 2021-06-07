@@ -5,6 +5,7 @@
 	<visibility>1</visibility>
 	<Link>
 		<href>https://wisdomware.github.io/Kml/AddNewPoints.kml</href>
+		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>1</refreshInterval>
 	</Link>
 </NetworkLink>
